@@ -34,7 +34,7 @@
 |Название проекта|Описание проекта|Стек|
 |----------------|----------------|----------|
 |[Анализ продукта e-learning](https://github.com/andrei-olzyatiev/e-learning-Karpov)|Предобработка имеющихся данных, анализ успеваемости студентов, определение самых сложных и самых простых экзаменов|Python, Pandas, Jupyter_notebook, Seaborn|
-|[Анализ продукта dating_app](https://github.com/andrei-olzyatiev/AB-test-Karpov)|Предобработка имеющихся данных, анализ работы приложения, выбор метрик, проведение A/B тестов, проверка успешности эксперимента|Python, Pandas, Jupyter_notebook, Numpy, Seaborn, Scipy|
+|[Анализ продукта dating_app](https://github.com/andrei-olzyatiev/dating_app_ABtest)|Предобработка имеющихся данных, анализ работы приложения, выбор метрик, проведение A/B тестов, проверка успешности эксперимента|Python, Pandas, Jupyter_notebook, Numpy, Seaborn, Scipy|
 |[Построение дашборда в plotly, dash framework](https://github.com/andrei-olzyatiev/dash_games)|Предобработка имеющихся данных, построение дашборда используя dash framework|Python, Pandas, Dash, Plotly Express|
 |[Построение дашбордов в Tableau на предобработанных данных](https://public.tableau.com/app/profile/andrei.olziatiev/vizzes)|Подключение к БД, построение графиков, верстка дашборда|Tableau|
 
