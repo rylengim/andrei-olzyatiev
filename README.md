@@ -13,7 +13,7 @@
 
 Мои контакты:
 * 📱 [Telegram](https://t.me/rylengim)
-* 📨 [Email](mailto:andrei.olzyatiev@gmail.com)
+* 📨 [Email](mailto:chrono08rus@yandex.ru)
 
 ---
 
